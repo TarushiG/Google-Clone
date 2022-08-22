@@ -1,2 +1,1 @@
-# Google-Clone
-Google clone made using HTML, CSS &amp; JavaScript.
+A clone of the Google homepage made using HTML, CSS, & Javascript.
